@@ -22,7 +22,7 @@ It contains X-ray images labeled as `NORMAL` or `PNEUMONIA`.
 - Final layer: Sigmoid activation (binary classification)
 - Saved as: `mobilenet_pneumonia_model.h5`
 
-[📥 Download model (.h5)](https://drive.google.com/your-link-here) <!-- Replace with real link -->
+[📥 Download model (.h5)]((https://drive.google.com/file/d/1Gt4pJ8N_5HjStZs9mVSXCfeG1TCl0clS/view?usp=drive_link)) 
 
 ---
 
