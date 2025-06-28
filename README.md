@@ -1,5 +1,3 @@
-# 🩺 Pneumonia Detection Using MobileNetV2
-
 A deep learning project to detect pneumonia from chest X-ray images using transfer learning with MobileNetV2. Built with TensorFlow and trained on a medical X-ray dataset.
 
 ---
@@ -31,43 +29,7 @@ It contains **5,863 chest X-ray images** divided into two classes:
 - Last few layers customized and fine-tuned
 - Optimizer: `Adam`
 - Loss: `Binary Crossentropy`
-- Accuracy achieved: **~96%**
-
-📥 Download the trained model:  
-[Download model (.h5)](# 🩺 Pneumonia Detection Using MobileNetV2
-
-A deep learning project to detect pneumonia from chest X-ray images using transfer learning with MobileNetV2. Built with TensorFlow and trained on a medical X-ray dataset.
-
----
-
-## 🔧 Tech Stack
-
-- Python 🐍
-- TensorFlow / Keras
-- MobileNetV2 (pretrained)
-- Matplotlib / Seaborn
-- NumPy / Sklearn
-- ImageDataGenerator for preprocessing
-
----
-
-## 📂 Dataset
-
-The dataset used is [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia) from Kaggle.  
-It contains **5,863 chest X-ray images** divided into two classes:
-
-- ✅ Normal
-- 🦠 Pneumonia
-
----
-
-## 🧠 Model
-
-- Transfer learning using **MobileNetV2**
-- Last few layers customized and fine-tuned
-- Optimizer: `Adam`
-- Loss: `Binary Crossentropy`
-- Accuracy achieved: **~96%**
+- Accuracy achieved: **~87%**
 
 📥 Download the trained model:  
 [Download model (.h5)](https://drive.google.com/file/d/1Gt4pJ8N_5HjStZs9mVSXCfeG1TCl0clS/view?usp=drive_link)
